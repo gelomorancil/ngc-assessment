@@ -3,7 +3,7 @@
     $root .= preg_replace('@/+$@', '', dirname($_SERVER['SCRIPT_NAME'])).'/';
     $base_url = $root;
     
-    require_once('C:\xampp\htdocs\ngc_assessment_exam2\db_connection.php');
+    require_once('C:\xampp\htdocs\ngc_assessment_exam\db_connection.php');
 
 ?>
 
