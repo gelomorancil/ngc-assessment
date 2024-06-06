@@ -65,7 +65,8 @@
                                     <h1 class="font-light text-right"><?=$registered?></h1>
                                 </div>
                             </div>
-                        </div>  
+                        </div>
+                          
                     </div>
                 </div>
             </div>

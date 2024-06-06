@@ -16,8 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" type="image/png" sizes="16x16" href="<?=$base_url?>/assets/theme/NiceAdminPro/assets/images/favicon.png">
-    <title>NGC Technical Coding Exam</title>
+    <title>Morancil_NGC Assessment</title>
     <link href="<?=$base_url?>/assets/theme/NiceAdminPro/dist/css/style.min.css" rel="stylesheet">
     <link href="<?=$base_url?>/assets/theme/NiceAdminPro/assets/libs/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet">
 </head>
@@ -34,7 +33,7 @@
             <div class="auth-box">
                 <div id="loginform">
                     <div class="logo">
-                        <span class="db"><img src="<?=$base_url?>/assets/theme/NiceAdminPro/assets/images/logo-icon.png" alt="logo" /></span>
+                        <span class="db"><img src="<?=$base_url?>/assets/theme/NiceAdminPro/assets/images/bcd-logo.png" alt="logo" /></span>
                         <h5 class="font-medium m-b-20">Sign In</h5>
                     </div>
                     <div class="row">

@@ -17,7 +17,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="<?=$base_url?>assets/theme/NiceAdminPro/assets/images/favicon.png">
-    <title>NGC Technical Coding Exam</title>
+    <title>Morancil_NGC Assessment</title>
     <!-- Custom CSS -->
     <link href="<?=$base_url?>assets/theme/NiceAdminPro/dist/css/style.min.css" rel="stylesheet">
     <link href="<?=$base_url?>/assets/theme/NiceAdminPro/assets/libs/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet">
@@ -50,7 +50,7 @@
             <div class="auth-box">
                 <div>
                     <div class="logo">
-                        <span class="db"><img src="<?=$base_url?>assets/theme/NiceAdminPro/assets/images/logo-icon.png" alt="logo" /></span>
+                        <span class="db"><img src="<?=$base_url?>assets/theme/NiceAdminPro/assets/images/bcd-logo.png" alt="logo" /></span>
                         <h5 class="font-medium m-b-20">Sign Up</h5>
                     </div>
                     <!-- Form -->
